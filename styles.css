@@ -1,0 +1,41 @@
+.features{
+    background-image: url();
+    width:100%;
+}
+
+.shopxd{
+    background-image: url();
+    width:100%;
+
+}
+.main-header {
+    background-image: url(./img/fondofixo1.jpg);
+    height: 100vh;
+    width: auto;
+}
+.home-img {
+    width: 60%;
+}
+.title{
+    font-size: 60px;
+
+}
+.comodin{
+    background-image: url(./img/fondo\ fixo2.jpg);
+    height:100vh;
+}
+.comodin h4{
+    color: #fff;
+    padding-top: 200px;
+    font-size: 40px;
+    
+ 
+}
+
+.shop-comodin {
+    background-image: url(./img/fondo\ fixo3.jpg);
+}
+
+footer{
+    background-image: url(./img/fondofixo1.jpg);
+}
